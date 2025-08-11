@@ -1,6 +1,6 @@
 # Ictal Chirps Dataset and Materials
 
-This repository will host the dataset and related materials for the study:
+This repository will host the link to dataset and related materials for the study:
 
 **"Semi-Automated Detection, Annotation, and Prognostic Assessment of Ictal Chirps in Intracranial EEG from Patients with Epilepsy"**
 
@@ -12,7 +12,7 @@ Affiliation: Krembil Brain Institute, University Health Network & University of 
 ## Current Status 🚧
 
 This repository is under active development 🚧 and will soon include:  
-- 🚧 The full dataset of annotated ictal chirps  
+- 🚧 The link to full dataset of annotated ictal chirps  
 - 🚧 Supplementary materials related to the study
 
 Please stay tuned for updates.
