@@ -9,13 +9,12 @@ Affiliation: Krembil Brain Institute, University Health Network & University of 
 
 ---
 
-## Current Status
+## Current Status 🚧
 
-This repository is under active development and will soon include:  
-- The full dataset of annotated ictal chirps  
-- Supplementary materials related to the study
+This repository is under active development 🚧 and will soon include:  
+- 🚧 The full dataset of annotated ictal chirps  
+- 🚧 Supplementary materials related to the study
 
 Please stay tuned for updates.
 
 ---
-
